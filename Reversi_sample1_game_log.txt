@@ -1,0 +1,173 @@
+Output TextArea:
+Turn 1 Current Player: BLACK
+BLACK piece at (4, 5)
+Turn 2 Current Player: WHITE
+WHITE piece at (3, 5)
+Turn 3 Current Player: BLACK
+BLACK piece at (2, 6)
+Turn 4 Current Player: WHITE
+Invalid move!
+Invalid move!
+Invalid move!
+Invalid move!
+Invalid move!
+WHITE piece at (5, 2)
+Turn 5 Current Player: BLACK
+Invalid move!
+Invalid move!
+Invalid move!
+Invalid move!
+Invalid move!
+Invalid move!
+Invalid move!
+BLACK piece at (3, 2)
+Turn 6 Current Player: WHITE
+Invalid move!
+WHITE piece at (4, 6)
+Turn 7 Current Player: BLACK
+BLACK piece at (5, 5)
+Turn 8 Current Player: WHITE
+Invalid move!
+Invalid move!
+WHITE piece at (2, 4)
+Turn 9 Current Player: BLACK
+BLACK piece at (5, 4)
+Turn 10 Current Player: WHITE
+Invalid move!
+Invalid move!
+Invalid move!
+WHITE piece at (1, 7)
+Turn 11 Current Player: BLACK
+BLACK piece at (2, 5)
+Turn 12 Current Player: WHITE
+Invalid move!
+Invalid move!
+Invalid move!
+Invalid move!
+WHITE piece at (4, 2)
+Turn 13 Current Player: BLACK
+Invalid move!
+Invalid move!
+Invalid move!
+Invalid move!
+BLACK piece at (2, 7)
+Turn 14 Current Player: WHITE
+WHITE piece at (3, 7)
+Turn 15 Current Player: BLACK
+Invalid move!
+BLACK piece at (3, 6)
+Turn 16 Current Player: WHITE
+Invalid move!
+Invalid move!
+WHITE piece at (6, 5)
+Turn 17 Current Player: BLACK
+BLACK piece at (7, 5)
+Turn 18 Current Player: WHITE
+WHITE piece at (7, 6)
+Turn 19 Current Player: BLACK
+Invalid move!
+Invalid move!
+BLACK piece at (7, 7)
+Turn 20 Current Player: WHITE
+WHITE piece at (6, 6)
+Turn 21 Current Player: BLACK
+BLACK piece at (2, 2)
+Turn 22 Current Player: WHITE
+Invalid move!
+WHITE piece at (5, 3)
+Turn 23 Current Player: BLACK
+BLACK piece at (6, 2)
+Turn 24 Current Player: WHITE
+Invalid move!
+Invalid move!
+WHITE piece at (7, 1)
+Turn 25 Current Player: BLACK
+BLACK piece at (6, 3)
+Turn 26 Current Player: WHITE
+WHITE piece at (7, 2)
+Turn 27 Current Player: BLACK
+BLACK piece at (7, 3)
+Turn 28 Current Player: WHITE
+WHITE piece at (6, 4)
+Turn 29 Current Player: BLACK
+BLACK piece at (7, 4)
+Turn 30 Current Player: WHITE
+Invalid move!
+Invalid move!
+Invalid move!
+Invalid move!
+WHITE piece at (1, 4)
+Turn 31 Current Player: BLACK
+BLACK piece at (7, 0)
+Turn 32 Current Player: WHITE
+WHITE piece at (6, 1)
+Turn 33 Current Player: BLACK
+BLACK piece at (1, 6)
+Turn 34 Current Player: WHITE
+Invalid move!
+WHITE piece at (1, 5)
+Turn 35 Current Player: BLACK
+BLACK piece at (0, 7)
+Turn 36 Current Player: WHITE
+Invalid move!
+Invalid move!
+WHITE piece at (0, 6)
+Turn 37 Current Player: BLACK
+BLACK piece at (4, 7)
+Turn 38 Current Player: WHITE
+WHITE piece at (5, 6)
+Turn 39 Current Player: BLACK
+BLACK piece at (5, 7)
+Turn 40 Current Player: WHITE
+WHITE piece at (6, 7)
+Turn 41 Current Player: BLACK
+BLACK piece at (0, 5)
+Turn 42 Current Player: WHITE
+WHITE piece at (0, 4)
+Turn 43 Current Player: BLACK
+BLACK piece at (0, 3)
+Turn 44 Current Player: WHITE
+Invalid move!
+WHITE piece at (1, 2)
+Turn 45 Current Player: BLACK
+BLACK piece at (1, 3)
+Turn 46 Current Player: WHITE
+WHITE piece at (2, 3)
+Turn 47 Current Player: BLACK
+BLACK piece at (2, 1)
+Turn 48 Current Player: WHITE
+WHITE piece at (3, 1)
+Turn 49 Current Player: BLACK
+BLACK piece at (4, 1)
+Turn 50 Current Player: WHITE
+WHITE piece at (5, 1)
+Turn 51 Current Player: BLACK
+BLACK piece at (5, 0)
+Turn 52 Current Player: WHITE
+WHITE piece at (6, 0)
+Turn 53 Current Player: BLACK
+Invalid move!
+Invalid move!
+BLACK piece at (4, 0)
+Turn 54 Current Player: WHITE
+WHITE piece at (3, 0)
+Turn 55 Current Player: BLACK
+BLACK piece at (2, 0)
+Turn 56 Current Player: WHITE
+WHITE piece at (1, 0)
+Turn 57 Current Player: BLACK
+BLACK piece at (1, 1)
+Turn 58 Current Player: WHITE
+WHITE piece at (0, 1)
+Turn 59 Current Player: BLACK
+BLACK piece at (0, 2)
+Turn 60 Current Player: WHITE
+WHITE piece at (0, 0)
+Turn 61 Current Player: BLACK
+Pass!
+Turn 62 Current Player: WHITE
+Pass!
+BLACK score: 44
+WHITE score: 20
+Winner is BLACK!
+Game ended!
